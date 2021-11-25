@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Book1",
+    "description": "Very good book, that comes first",
+    "author": {
+      "firstName": "Brent",
+
+      "lastName": "Bookman",
+      "email": "bb@bookman.info"
+    },
+    "numberOfPages": "130"
+  }
+]

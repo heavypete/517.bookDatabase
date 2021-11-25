@@ -1,0 +1,14 @@
+@url = http://localhost:3030
+
+### simple book READ
+GET {{url}}/simpleBook
+content-type: application/json
+
+### simple book CREATE
+POST {{url}}/simpleBook/create
+content-type: application/application/json
+
+{
+    "title": "The Best Book",
+    "Description": "Really quite good!"
+}
